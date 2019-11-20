@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <meta charset="UTF-8">
+        <script src="jquery.js"></script>
+        <link rel="stylesheet" type="text/css" href="index.css">
+        <script src="index.js"></script>
+
+         <title> Lavlin HTML.</title>
+
+    </head>
+
+    <body>
+     <button type="button" onclick="laatikkoFunktio(1)" class="muutosNappi">Info 1.</button>
+     <button type="button" onclick="laatikkoFunktio(2)" class="muutosNappi">Info 2.</button>
+     <button type="button" onclick="laatikkoFunktio(3)" class="muutosNappi">Info 3.</button>
+     <img src="smiley1.png" height="100px" width="100px">
+     <div class="alusta1">
+         <div class="alusta2" id="laatikko1">
+             <h1 class="originalOtsikko1">Hello World!</h1>
+             <p>Miä olen Lavli.</p>
+         </div>
+
+         <div class="alusta3">
+             <h1 class="originalOtsikko2">Hei Maailma!</h1>
+             <p>Ja tämä on miun HTML.</p>
+         </div>
+
+         <div class="kategoriat">
+             <h2 class="originalOtsikko3">Kategoriat</h2>
+             <ul>
+                 <li><a href="">kategoria 1</a></li>
+                 <li><a href="">kategoria 2</a></li>
+                 <li><a href="">kategoria 3</a></li>
+                 <li><a href="">kategoria 4</a></li>
+             </ul>
+         </div>
+         <div>
+                 <form id="yhteystietolomake">
+                     Nimi: <input type="text" name="Nimi" value=""><br>
+                     Email: <input type="email" name="Email" value=""><br>
+                     Puh: <input type="number" name="Puh" value=""><br><br>
+                 </form> 
+                 <button onclick="yhteystietoFunktio()">Tulosta</button>
+         </div>
+         <div id="yhteystiedotTuloste">
+
+         </div>
+     </div>
+             
+        </p>
+
+    </body>
+
+</html>
