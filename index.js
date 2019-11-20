@@ -15,6 +15,11 @@ $(document).ready(function(){
     });
     $(".Image").mouseleave(function(){
         $(".Image").show();
-        
+
     });
+
+    $("button").click(function(){
+     $("p").toggle();
+   });
+
 });
