@@ -5,4 +5,13 @@
         margin-top: 30px;
         border-style: solid; /* Required to animate border width */
         border-color: #6f40ce;
+        position:relative;
+    } 
+    .Image{
+     display: block;
+     position: absolute;
+     top: 40%;
+     left: 40%;
+     transform: translate( -40% -40%);
+
     }

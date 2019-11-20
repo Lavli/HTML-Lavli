@@ -6,5 +6,15 @@ $(document).ready(function(){
          .animate({marginLeft: "150px"})
          .animate({borderWidth: "10px"})
          .animate({opacity: 0.5});
- });
+        });
+
+       });
+
+$(document).ready(function(){
+   $(".Image").mouseover(function(){
+        $(".Image").hide();
+      });
+        $(".Image").mouseleave(function(){
+        $(".Image").show();
+    });
 });
