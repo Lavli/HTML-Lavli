@@ -11,10 +11,13 @@ Kysymys 3: Tietovaraston tietoturva
 Vastaus: Tietovarastoa pitäisi suojella koska jos paholaiset saavat nämä tietoja he voivat käyttää nämä hyväkseen, esimerkiksi väärennetty henkilöllisyystodistus.
 
 Kysymys 4: Tietovaraston suorituskyky
-Vastaus: Tietovaraston suorituskyky on tärkeä että prosessit menisivät hyvin ja sitä kautta ne menvät huollellisesti.
+Vastaus: Tietovaraston suorituskyky on tärkeä että prosessit menisivät hyvin ja sitä kautta ne menvät huollellisesti. Pitäisi olla nopea että käyttäjälle olisi helppoa mukavaa ja
+että tehtävä menee nopeesti, jos menee hidasti voi unohtaa, suuttua ja tän takia voi jättää kokonaan poist tekemättä ja sitten muita ongelmia voi seurata.
 
 Kysymys 5: Tietovaraston eheys
-Vastaus: Tietojen eheys on tärkeä, koska melkein jokainen kriittinen liiketoimintapäätös perustuu yrityksen tietoihin.
+Vastaus: Tietojen eheys on tärkeä, koska melkein jokainen kriittinen liiketoimintapäätös perustuu yrityksen tietoihin. Mahdollisimman puhtaat tietoita ja sääntöjen mukaisesti 
+koska jos ei voi tapahtua mutkaisia ja muita ongelmia voi seurata.
 
 Kysymys 6: Tietovaraston pysyvyys
-Vastaus: Tämä on tärkeä että tietovarasto pysyy yhdessä tai moneassa turvassa paikassa että tietot voisi tallentua turvaallisemmiksi.
+Vastaus: Tämä on tärkeä että tietovarasto pysyy yhdessä tai moneassa turvassa paikassa että tietot voisi tallentua turvaallisemmiksi. Käyttäjien tiedot tallentuu että ei häviä jos
+yhtä äkkiä käyttäjän koneelle tapahtuu jotain tai ei mitääm mutta häviää koodin takia. Koodin pitäisi olla puhdas myös että prosessit toimivat nopeasti ja turvallisesti.
