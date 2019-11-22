@@ -1,0 +1,19 @@
+Lavlin Tietovarastot. 22.11.2019. :)
+
+Kysymys 1:Keksi esimerkkejä millaisia tietoa tallentavia ja tarjoavia järjestelmiä olet itse käyttänyt. Minkälaista tietoa kukin järjestelmä sinusta tallensi?
+Vastaus: 
+
+Kysymys 2: Katso seuraava video ja pohdi, minkälaista tietoa sovelluksen täytyy tallentaa toimiakseen. Entä miten kauppa voisi asiakkaistaan tallennettua tietoa hyödyntää.
+Vastaus: 
+
+Kysymys 3: Tietovaraston tietoturva
+Vastaus: 
+
+Kysymys 4: Tietovaraston suorituskyky
+Vastaus:
+
+Kysymys 5: Tietovaraston eheys
+Vastaus: 
+
+Kysymys 6: Tietovaraston pysyvyys
+Vastaus:
