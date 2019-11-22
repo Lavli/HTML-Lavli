@@ -1,19 +1,20 @@
 Lavlin Tietovarastot. 22.11.2019. :)
 
 Kysymys 1:Keksi esimerkkejä millaisia tietoa tallentavia ja tarjoavia järjestelmiä olet itse käyttänyt. Minkälaista tietoa kukin järjestelmä sinusta tallensi?
-Vastaus: 
+Vastaus: Käytän Google mikä yhdistyy YouTube'en, sitten käyn kirjastoo ja tallentuvat minun tietoihin mitä kirjoja olen lukenut ja mitä luen eniten, käyn kaupoissa ja käytän minun
+pankkikortia tällä avulla minun verkko persoonallisuus tehdään.
 
 Kysymys 2: Katso seuraava video ja pohdi, minkälaista tietoa sovelluksen täytyy tallentaa toimiakseen. Entä miten kauppa voisi asiakkaistaan tallennettua tietoa hyödyntää.
-Vastaus: 
+Vastaus: He voisivat tallentaa asiakkaiden suosittuimat valikoimat ja mitä he eniten ostavat. He voisi vielä tehdä kyselyn asiakkaille että voisi parantaa heidän palvelua.
 
 Kysymys 3: Tietovaraston tietoturva
-Vastaus: 
+Vastaus: Tietovarastoa pitäisi suojella koska jos paholaiset saavat nämä tietoja he voivat käyttää nämä hyväkseen, esimerkiksi väärennetty henkilöllisyystodistus.
 
 Kysymys 4: Tietovaraston suorituskyky
-Vastaus:
+Vastaus: Tietovaraston suorituskyky on tärkeä että prosessit menisivät hyvin ja sitä kautta ne menvät huollellisesti.
 
 Kysymys 5: Tietovaraston eheys
-Vastaus: 
+Vastaus: Tietojen eheys on tärkeä, koska melkein jokainen kriittinen liiketoimintapäätös perustuu yrityksen tietoihin.
 
 Kysymys 6: Tietovaraston pysyvyys
-Vastaus:
+Vastaus: Tämä on tärkeä että tietovarasto pysyy yhdessä tai moneassa turvassa paikassa että tietot voisi tallentua turvaallisemmiksi.
