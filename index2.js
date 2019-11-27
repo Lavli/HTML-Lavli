@@ -1,30 +1,30 @@
-function laatikkoFunktio(boxNumber){
+function laatikkoFunktio(boxNumber) {
     //alert("Nyt vaihdetaan laatikko"+ boxNumber + ":n sisältöä!");
 
-    
 
-    if (boxNumber == 1){
-        document.getElementById("laatikko1").innerHTML = "<h1 class='uusiOtsikko1'>Tähän tulee uusi otsikko!</h1>" + 
-        "<p>Ja tähän tietysti jotain sisältöä...</p>";
+
+    if (boxNumber == 1) {
+        document.getElementById("laatikko1").innerHTML = "<h1 class='uusiOtsikko1'>Tähän tulee uusi otsikko!</h1>" +
+            "<p>Ja tähän tietysti jotain sisältöä...</p>";
         document.getElementById("laatikko1").style.lineHeight = "50px";
     }
-    else if (boxNumber == 2){
+    else if (boxNumber == 2) {
         document.getElementById("laatikko2").innerHTML =
-        "<table style='width:100%'>" +
+            "<table style='width:100%'>" +
             "<tr>" +
-                "<th>Minun nimi on Lavdim</th>" +
-                "<th>Minun sukunimi on Raci</th>" +
-                "<th>Minua kutsutaan Lavliksi</th>" +
+            "<th>Minun nimi on Lavdim</th>" +
+            "<th>Minun sukunimi on Raci</th>" +
+            "<th>Minua kutsutaan Lavliksi</th>" +
             "</tr>" +
-        "</table>";
-        
+            "</table>";
+
     }
     else if (boxNumber == 3) {
         document.getElementById("laatikko3").innerHTML = "<img src='https://www.azernews.az/media/2017/06/21/watermelons.jpg'>";
-       
+
     }
-    
-    if (boxNumber == 4){
+
+    if (boxNumber == 4) {
         location.reload();
     }
 }
@@ -32,34 +32,34 @@ function yhteystietoFunktio() {
     var x = document.getElementById("yhteystietolomake");
     var text = "";
     var i;
-    for (i = x.length-1; i >= 0; i--) {
-      text += x.elements[i].name + " " +  x.elements[i].value + "<br>";
+    for (i = x.length - 1; i >= 0; i--) {
+        text += x.elements[i].name + " " + x.elements[i].value + "<br>";
     }
     document.getElementById("yhteystiedotTuloste").innerHTML = text;
-  }
+}
 
-  function diagrammiFunktio(){
+function diagrammiFunktio() {
     var c = document.getElementById("myCanvas");
     var arvoArray;
     var arvoPituus;
-    var piste=40;
+    var piste = 40;
     var diagrammi = c.getContext("2d");
     arvoArray = [100, 150, 100, 110, 120, 110, 120, 120, 130, 150, +
         100, 150, 100, 110, 120, 110, 420, 320, 430, 150, +
         150, 100, 150, 100, 110, 120, 110, 120, 120, 130, 150];
-        
-    arvoPituus= arvoArray.length;
-    
+
+    arvoPituus = arvoArray.length;
+
     diagrammi.beginPath();
     diagrammi.strokeStyle = "blue";
 
-    diagrammi.moveTo(piste, 500-arvoArray[0]);
-    diagrammi.fillText(arvoArray[0], piste, 500-arvoArray[0]);
-        
+    diagrammi.moveTo(piste, 500 - arvoArray[0]);
+    diagrammi.fillText(arvoArray[0], piste, 500 - arvoArray[0]);
+
     for (i = 1; i < arvoPituus; i++) {
-        piste=piste+20;
-        diagrammi.lineTo(piste, 500-arvoArray[i]);
-        diagrammi.fillText(arvoArray[i], piste, 500-arvoArray[i]);
+        piste = piste + 20;
+        diagrammi.lineTo(piste, 500 - arvoArray[i]);
+        diagrammi.fillText(arvoArray[i], piste, 500 - arvoArray[i]);
     }
     diagrammi.stroke();
 
